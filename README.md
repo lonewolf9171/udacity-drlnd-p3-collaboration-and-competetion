@@ -9,7 +9,7 @@
 [image4]: https://user-images.githubusercontent.com/10624937/42386929-76f671f0-8106-11e8-9376-f17da2ae852e.png "Kernel"
 
 
-# Udacity Deep RL Project 3: Collaboration and Competetion with Multi Agent Deep Deterministic Policy Gradient
+# Udacity Deep RL Project 3: Collaboration and Competetion with Deep Deterministic Policy Gradient
 
 ### Introduction
 
@@ -107,5 +107,5 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 ### Scores per Episode
 
-In the notebook I was able to solve the environment in **1146 Episodes** with an average score of **0.5**
+In the notebook I was able to solve the environment in **1146 Episodes** with an average score of **0.501**
 ![Scores][image3]
